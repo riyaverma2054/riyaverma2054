@@ -2,9 +2,9 @@
 
 <h3 align="center">💻 Frontend Developer | 🚀 Aspiring Software Engineer</h3>
 
-<!-- 👋 Waving Animation -->
+<!-- 👩 Cute Girl Saying Hi -->
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="110px">
+  <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="140">
 </p>
 
 <!-- 💻 Coding Girl Animation -->
@@ -66,9 +66,8 @@
 - 📱 Flutter Development  
 - 🔗 API Integration  
 
-<!-- 🔥 Divider Animation -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="200">
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="180">
 </p>
 
 ---
@@ -86,17 +85,22 @@
 
 ---
 
-## 🧠 Projects & Interests
+## 🚀 Featured Projects
 
-💻 Responsive Web Applications  
-🎨 UI/UX Based Projects  
-⚡ JavaScript Mini Projects  
-📱 Flutter Apps  
-💡 Problem Solving  
+🔹 **Portfolio Website**  
+💻 Built using React  
+🎨 Clean UI + Responsive Design  
 
-<!-- 💡 Project Animation -->
+🔹 **Task Manager App**  
+📋 Manage tasks with simple UI  
+⚡ Built using React  
+
+🔹 **JavaScript Mini Projects**  
+🎯 DOM & API based projects  
+💡 Logic building practice  
+
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="230">
 </p>
 
 ---
@@ -135,7 +139,7 @@
 ## 💬 Quote
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="280"><br><br>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="260"><br><br>
   💡 <b>"Code with logic, build with creativity, grow with consistency."</b> 🚀
 </p>
 
